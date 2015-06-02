@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+Debug/
+
+# Visual Studio files
+*.Dotsettings
+*.suo
